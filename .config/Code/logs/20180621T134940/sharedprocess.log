@@ -1,0 +1,46 @@
+[2018-06-21 13:49:45.544] [sharedprocess] [info] main {"machineId":"c37e4895fb105ed02f9c5460573e1003d9052a49269d3bd11f06f8d643b56860"}
+[2018-06-21 13:49:48.765] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:49.185] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:49.187] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:49.391] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-21 13:49:49.391] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-21 13:49:49.769] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:52.924] [sharedprocess] [info] Installing extension: rails
+[2018-06-21 13:49:52.976] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:53.040] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:53.066] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-21 13:49:53.093] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-21 13:49:53.258] [sharedprocess] [info] Installing extension: vscode-gemfile
+[2018-06-21 13:49:58.148] [sharedprocess] [info] Downloaded extension: vscode-gemfile
+[2018-06-21 13:49:58.681] [sharedprocess] [info] Downloaded extension: rails
+[2018-06-21 13:50:02.058] [sharedprocess] [info] Extracted extension to /home/matheus/.vscode/extensions/.bung87.vscode-gemfile-0.0.2: bung87.vscode-gemfile-0.0.2
+[2018-06-21 13:50:02.058] [sharedprocess] [info] Renamed to /home/matheus/.vscode/extensions/bung87.vscode-gemfile-0.0.2
+[2018-06-21 13:50:02.058] [sharedprocess] [info] Installation completed. bung87.vscode-gemfile-0.0.2
+[2018-06-21 13:50:02.929] [sharedprocess] [info] Extracted extension to /home/matheus/.vscode/extensions/.bung87.rails-0.8.0: bung87.rails-0.8.0
+[2018-06-21 13:50:02.929] [sharedprocess] [info] Renamed to /home/matheus/.vscode/extensions/bung87.rails-0.8.0
+[2018-06-21 13:50:02.929] [sharedprocess] [info] Installation completed. bung87.rails-0.8.0
+[2018-06-21 13:50:03.000] [sharedprocess] [info] Extensions installed successfully: bung87.rails
+[2018-06-21 13:50:03.001] [sharedprocess] [info] Extensions installed successfully: bung87.vscode-gemfile
+[2018-06-21 13:50:03.182] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 13:50:03.183] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 13:50:03.197] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-21 13:50:03.203] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-21 13:50:25.553] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-21 13:54:53.109] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:01:02.336] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:06:03.289] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:11:03.358] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:16:03.409] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:21:03.461] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:26:03.512] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 14:31:03.573] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:08:53.908] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:13:53.955] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:18:54.007] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:23:54.053] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:28:54.103] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:33:55.058] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:38:55.103] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:43:55.157] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:48:55.200] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-21 15:53:55.261] [sharedprocess] [info] Scanned user extensions: 31

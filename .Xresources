@@ -1,0 +1,77 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+!#		   			Window	  	  Border	 	 Separator
+rofi.color-window: argb:B0435e75, argb:D0435e75, argb:D0435e75
+
+!#		  			 Background	  Foreground	 Alt Background Highlight Bg   Highlight Fg
+rofi.color-normal: argb:00435e75, argb:FF9dbeda, argb:00486883, argb:A02C3E4F, argb:D09dbeda
+rofi.color-active: argb:00435e75, argb:D0734375, argb:00486883, argb:A02C3E4F, argb:D0734375
+rofi.color-urgent: argb:00435e75, argb:D0b9524e, argb:00486883, argb:A02C3E4F, argb:D0b9524e
+rofi.opacity: 50
+
+
+
+
+rofi.font: MonacoB 14
+rofi.hide-scrollbar: true
+
+! URXVT theme
+
+urxvt.scrollBar: false
+urxvt.transparent: false
+!urxvt.shading: 20
+
+!urxvt.tintColor: #172A47
+!urxvt.inheritPixmap: true
+urxvt.depth: 32
+
+urxvt.keysym.Control-Shift-V: perl:clipboard:paste
+!urxvt.keysym.Control-Shift-C: perl:clipboard:copy
+
+urxvt.iso14755: False
+
+!Fonts
+
+urxvt.font: xft:Ubuntu Mono:pixelsize=17,style=regular
+urxvt.boldFont: xft:Ubuntu Mono:pixelsize=17,style=bold
+urxvt.letterSpace: -1
+
+urxvt.perl-ext-common: default,matcher,clipboard,selection-to-clipboard
+urxvt.url-launcher: firefox
+urxvt.matcher.button: 1
+
+Xft.dpi: 96	
+Xft.antialias: true
+!Xft.rbga: none
+Xft.hintstyle: hintfull
+Xft.hinting: true
+
+*.internalBorder: 13
+
+
+! special
+!urxvt.foreground:   #placeholder
+!doesnt work because urxvt.transparent and tintcolor
+
+*background:   [97]#282a36
+*foreground:   #eff0eb
+*cursorColor:  #9aedfe
+
+*color0:      #33303b
+*color8:      #4f4b58
+*color1:      #ff5c57
+*color9:      #ff5c57
+*color2:      #5af78e
+*color10:     #5af78e
+*color3:      #f3f99d
+*color11:     #f3f99d
+*color4:      #57c7ff
+*color12:     #57c7ff
+*color5:      #ff6ac1
+*color13:     #ff6ac1
+*color6:      #9aedfe
+*color14:     #9aedfe
+*color7:      #eff0eb
+*color15:     #eff0eb

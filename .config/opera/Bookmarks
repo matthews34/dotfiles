@@ -1,0 +1,1806 @@
+{
+   "checksum": "f8ddded36752ecefc37738b1a8b3bc01",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13148011629000000",
+               "id": "168",
+               "name": "Getting Started",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/firefox/central/"
+            }, {
+               "date_added": "13093828915000000",
+               "id": "169",
+               "name": "Primeiros passos",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.mozilla.org/pt-BR/firefox/central/"
+            }, {
+               "children": [ {
+                  "date_added": "13114564932000000",
+                  "id": "171",
+                  "name": "Álgebra Linear II",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ime.usp.br/mat/3458/"
+               }, {
+                  "date_added": "13114565101000000",
+                  "id": "172",
+                  "name": "Cálculo Diferencial e Integral II",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ime.usp.br/~lymber/mat2454/"
+               } ],
+               "date_added": "13162071489493738",
+               "date_modified": "13162071489493738",
+               "id": "170",
+               "name": "Faculdade",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13162071489490282",
+            "date_modified": "13162071489490282",
+            "id": "156",
+            "name": "Bookmarks Bar (Firefox)",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13148846002000000",
+               "id": "163",
+               "name": "Getting Started",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/firefox/central/"
+            }, {
+               "date_added": "13102812095000000",
+               "id": "164",
+               "name": "Primeiros passos",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.mozilla.org/pt-BR/firefox/central/"
+            }, {
+               "children": [ {
+                  "date_added": "13114920809000000",
+                  "id": "166",
+                  "name": "Álgebra Linear II",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ime.usp.br/mat/3458/"
+               }, {
+                  "date_added": "13114920809000000",
+                  "id": "167",
+                  "name": "Cálculo Diferencial e Integral II",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ime.usp.br/~lymber/mat2454/"
+               } ],
+               "date_added": "13162071489493095",
+               "date_modified": "13162071489493095",
+               "id": "165",
+               "name": "Faculdade",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13162071489490870",
+            "date_modified": "13162071489490870",
+            "id": "157",
+            "name": "Barra de Marcadores (Firefox)",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         }, {
+            "date_added": "13148846002000000",
+            "id": "158",
+            "name": "Getting Started",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13102812095000000",
+            "id": "159",
+            "meta_info": {
+               "last_visited_desktop": "13151963639797784"
+            },
+            "name": "Primeiros passos",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.mozilla.org/pt-BR/firefox/central/"
+         }, {
+            "children": [ {
+               "date_added": "13114920809000000",
+               "id": "161",
+               "name": "Álgebra Linear II",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.ime.usp.br/mat/3458/"
+            }, {
+               "date_added": "13114920809000000",
+               "id": "162",
+               "name": "Cálculo Diferencial e Integral II",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.ime.usp.br/~lymber/mat2454/"
+            } ],
+            "date_added": "13162071489492167",
+            "date_modified": "13162071489492167",
+            "id": "160",
+            "name": "Faculdade",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         } ],
+         "date_added": "13162059239557471",
+         "date_modified": "13148846002000000",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13162059239734013",
+                  "id": "12",
+                  "meta_info": {
+                     "guid": "5b537805-dca2-4615-aea7-9c2a81410f8d",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_pt",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/baf46901cd94c248197d5511d704897014775bce.png",
+                     "partner_url": "https://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_pt",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "AliExpress",
+                  "sync_transaction_version": "4",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13162059239734168",
+                  "id": "13",
+                  "meta_info": {
+                     "guid": "f77fe554-d436-424e-aa89-1b5ffbc844d4",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8198d499c1cb3d2b196ebb5f75a863a00a30d545.png",
+                     "imageDataType": "2",
+                     "imageID": "353592BCA7BE6EE52A733D5F5D58DC40DF8AEF2975A81F6AFAB61CD3F42B2546",
+                     "imageType": "2",
+                     "partner_id": "dafiti",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8198d499c1cb3d2b196ebb5f75a863a00a30d545.png",
+                     "partner_url": "http://ad.zanox.com/ppc/?23383128C90003275T",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/dafiti",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "Dafiti",
+                  "sync_transaction_version": "5",
+                  "type": "url",
+                  "url": "http://www.dafiti.com.br/"
+               }, {
+                  "date_added": "13162059239734317",
+                  "id": "14",
+                  "meta_info": {
+                     "guid": "8efed274-609c-4656-9c09-eda757e921fb",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/5c7b2f2a753800642d2d4a430614d18d1cac499e.png",
+                     "imageDataType": "2",
+                     "imageID": "EBAEB2BDD8B41F5CA397E23C5ABE34A9EE3B44FF15FAD1CE8CAE09227A43FCF0",
+                     "imageType": "2",
+                     "partner_id": "casas_bahia_com_br",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/5c7b2f2a753800642d2d4a430614d18d1cac499e.png",
+                     "partner_url": "https://ad.zanox.com/ppc/?43119229C1555781794&ULP=[[http://www.casasbahia.com.br?utm_source=zanox&utm_medium=deeplink&utm_campaign=deeplink]]",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/casas_bahia_com_br",
+                     "revision": "20171003",
+                     "server_position": "12"
+                  },
+                  "name": "Casas Bahia",
+                  "sync_transaction_version": "9",
+                  "type": "url",
+                  "url": "https://casasbahia.com.br/"
+               }, {
+                  "date_added": "13162059239734469",
+                  "id": "15",
+                  "meta_info": {
+                     "guid": "415873db-5d81-4a34-bc79-d1236f5c228f",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/6fa850d4fa75aadbe7eb750de79fab888a89ca4b.png",
+                     "imageDataType": "2",
+                     "imageID": "D06E1D7C8DDA07F59A2C0AC22C556C1F8176BA19E79B7B784B492CA3841B1F93",
+                     "imageType": "2",
+                     "partner_id": "americanas_com_br",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/6fa850d4fa75aadbe7eb750de79fab888a89ca4b.png",
+                     "partner_url": "https://ad.zanox.com/ppc/?43161525C773634296&ULP=[[https://www.americanas.com.br?opn=AFLACOM&epar=af_00_00_za_zanoxacom]]",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/americanas_com_br",
+                     "revision": "20171003",
+                     "server_position": "14"
+                  },
+                  "name": "Americanas",
+                  "sync_transaction_version": "10",
+                  "type": "url",
+                  "url": "https://www.americanas.com.br/"
+               }, {
+                  "date_added": "13162071396912699",
+                  "id": "16",
+                  "meta_info": {
+                     "guid": "9865d89b-df2f-4fe8-8f8b-7500a7491b57",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/b004a9bc89d2516d7fc4d9531234d0dbd6ab0d31.png",
+                     "imageDataType": "2",
+                     "imageID": "2E54640822236E4A4DC9505D28310F7736E6F774517C35B71631330B6A378418",
+                     "imageType": "2",
+                     "partner_id": "decolar_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/b004a9bc89d2516d7fc4d9531234d0dbd6ab0d31.png",
+                     "partner_url": "http://www.trackeame.com/sem-tracker-web/track?kw=_DISPLAY_&c=opera_br&mt=e&n=f&p&u=http%3a%2f%2fpixel.everesttech.net%2f1796%2fc%3fev_ct%3dd%26ev_sid%3d57%26ev_ci%3d700034880%26ev_ai%3d716083908%26ev_cri%3d816795161%26url%3dhttp%253a%252f%252fwww.decolar.com%252f",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/decolar_com",
+                     "revision": "20171003",
+                     "server_position": "6"
+                  },
+                  "name": "Decolar",
+                  "sync_transaction_version": "6",
+                  "type": "url",
+                  "url": "http://www.decolar.com/"
+               }, {
+                  "date_added": "13162071396912776",
+                  "id": "17",
+                  "meta_info": {
+                     "guid": "3568d93e-a33f-4f07-a4da-7df5e4a31c80",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/dfb8e26cece0bc9b48746878a1da78dee32fc104.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_br",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/dfb8e26cece0bc9b48746878a1da78dee32fc104.png",
+                     "partner_url": "http://www.booking.com/index.html?aid=341527&label=operasoft-sd2O15-341527&utm_source=Opera&utm_medium=web&utm_campaign=sd2O15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_br",
+                     "revision": "20171003",
+                     "server_position": "7"
+                  },
+                  "name": "Booking.com",
+                  "sync_transaction_version": "7",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               }, {
+                  "date_added": "13162071396912850",
+                  "id": "18",
+                  "meta_info": {
+                     "guid": "cdfc1889-b4e9-4f25-a939-5792da3186ce",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/6dc78e7753836763f2541211438a382458d21eef.png",
+                     "imageDataType": "2",
+                     "imageID": "C9EA38B24962DA6E2F3816B23B470B52AAD07D7C891F04D731C9AF1C60D95402",
+                     "imageType": "2",
+                     "partner_id": "netshoes_com_br",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/6dc78e7753836763f2541211438a382458d21eef.png",
+                     "partner_url": "http://ad.zanox.com/ppc/?31767206C705531227T",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/netshoes_com_br",
+                     "revision": "20171003",
+                     "server_position": "8"
+                  },
+                  "name": "Netshoes",
+                  "sync_transaction_version": "8",
+                  "type": "url",
+                  "url": "http://netshoes.com.br/"
+               }, {
+                  "date_added": "13162071396913305",
+                  "id": "19",
+                  "meta_info": {
+                     "guid": "f78f6ac6-9f94-4532-b9b3-c5d4c99cfac2",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/78d7f0de74d823b04a5fc7e6f47e45bfde2d561f.png",
+                     "imageDataType": "2",
+                     "imageID": "036D6CCEC9311C509992C9E25C8D0A403F25FAC8CB3CCF0DEEE9DA7D65FBA7B5",
+                     "imageType": "2",
+                     "partner_id": "pontofrio_com_br",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/78d7f0de74d823b04a5fc7e6f47e45bfde2d561f.png",
+                     "partner_url": "https://ad.zanox.com/ppc/?43206730C284406653&ULP=[[http://www.pontofrio.com.br?utm_source=zanox&utm_medium=deeplink&utm_campaign=deeplink]]",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/pontofrio_com_br",
+                     "revision": "20171003",
+                     "server_position": "15"
+                  },
+                  "name": "Pontofrio",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.pontofrio.com.br/"
+               }, {
+                  "date_added": "13162071396913380",
+                  "id": "20",
+                  "meta_info": {
+                     "guid": "bd0842ff-26ad-43a9-b18f-7a501a43f0b5",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/1f287902ad9a43f936795e56dad456293444e317.png",
+                     "imageDataType": "2",
+                     "imageID": "E5F2B26716516AEFD4FB2140806D0E747484D49E26B6795B6B40B7AE6F5FE32C",
+                     "imageType": "2",
+                     "partner_id": "gearbest_br",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/1f287902ad9a43f936795e56dad456293444e317.png",
+                     "partner_url": "https://pafutos.com/g/2316b8f856a47a83735c22af2ed61b/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/gearbest_br",
+                     "revision": "20171003",
+                     "server_position": "16"
+                  },
+                  "name": "Gearbest",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.gearbest.com/"
+               } ],
+               "date_added": "13162059239681624",
+               "date_modified": "13162071396913380",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "4b596c12-0e73-4425-af89-240001de0c88"
+               },
+               "name": "matheus-Aspire",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13153537234113125",
+                  "id": "145",
+                  "name": "Google",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.google.com/search?client=ms-opera-mobile"
+               }, {
+                  "date_added": "13153537234115231",
+                  "id": "146",
+                  "name": "Booking.com",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://ads.admarvel.com/fam/ck_offline.php?p=__pid=5277dad9fbfee288__sid=30796__bid=1571690"
+               }, {
+                  "date_added": "13153537234115811",
+                  "id": "147",
+                  "name": "Gmail",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://mail.google.com/mail/x/-hp-opera-mini/"
+               }, {
+                  "date_added": "13153537234116208",
+                  "id": "148",
+                  "name": "Wikipedia",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://pt.m.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"
+               }, {
+                  "date_added": "13153537234116696",
+                  "id": "149",
+                  "name": "Best games",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://ads.admarvel.com/fam/ck_offline.php?p=__pid=0ae61fc07b1b8295__sid=219018__bid=1607222"
+               }, {
+                  "date_added": "13153537234117245",
+                  "id": "150",
+                  "name": "YouTube",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.youtube.com/"
+               }, {
+                  "date_added": "13153537234117673",
+                  "id": "151",
+                  "name": "CNN News",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://edition.cnn.com/"
+               }, {
+                  "date_added": "13153537234118039",
+                  "id": "152",
+                  "name": "Google+",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://plus.google.com/app/basic/?partnerid=operamini1104"
+               }, {
+                  "date_added": "13153537234119809",
+                  "id": "153",
+                  "meta_info": {
+                     "last_visited_desktop": "13156709739674688"
+                  },
+                  "name": "Netflix",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.netflix.com/"
+               }, {
+                  "date_added": "13153537234120359",
+                  "id": "154",
+                  "name": "Twitter",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://twitter.com/"
+               }, {
+                  "date_added": "13153537234120725",
+                  "id": "155",
+                  "name": "Follow us",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.facebook.com/Opera"
+               } ],
+               "date_added": "13162071489483871",
+               "date_modified": "13162071489483871",
+               "id": "98",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "dcdadc99-17f8-493c-984f-3d4ce20bd167"
+               },
+               "name": "XT1058",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13153514450893435",
+                  "id": "136",
+                  "name": "Facebook",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.facebook.com/?ref=opera_speed_dial"
+               }, {
+                  "date_added": "13153514451284798",
+                  "id": "137",
+                  "name": "Google",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.google.com/webhp?client=ms-opera-mini-android"
+               }, {
+                  "date_added": "13153514451285714",
+                  "id": "138",
+                  "name": "Booking.com",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://ads.admarvel.com/fam/ck_offline.php?p=__pid=5277dad9fbfee288__sid=30796__bid=1571690"
+               }, {
+                  "date_added": "13153514451286629",
+                  "id": "139",
+                  "name": "Wikipedia",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://m.wikipedia.org/"
+               }, {
+                  "date_added": "13153514451287636",
+                  "id": "140",
+                  "name": "YouTube",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.youtube.com/"
+               }, {
+                  "date_added": "13153514451288308",
+                  "id": "141",
+                  "name": "CNN News",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://edition.cnn.com/"
+               }, {
+                  "date_added": "13153514451289101",
+                  "id": "142",
+                  "meta_info": {
+                     "last_visited_desktop": "13156709739674688"
+                  },
+                  "name": "Netflix",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.netflix.com/"
+               }, {
+                  "date_added": "13153514451289742",
+                  "id": "143",
+                  "name": "Twitter",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://twitter.com/"
+               }, {
+                  "date_added": "13153514451292092",
+                  "id": "144",
+                  "name": "Follow us",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.facebook.com/Opera"
+               } ],
+               "date_added": "13162071489483892",
+               "date_modified": "13162071489483892",
+               "id": "99",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "89b1e31e-232f-43ac-9987-76c37b9edee7"
+               },
+               "name": "XT1058",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13151973707512418",
+                  "id": "110",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "d0bdf36b-a0a6-409e-bc06-6ed99dbde40a",
+                     "last_visited_desktop": "13152969375852209",
+                     "partner_id": "",
+                     "partner_image_download_url": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "Moodle USP: e-Disciplinas",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://edisciplinas.usp.br/acessar/"
+               }, {
+                  "date_added": "13151973314705509",
+                  "id": "111",
+                  "meta_info": {
+                     "custom_keywords": "[\"Amazon\",\"Amazon.com\",\"Books\",\"Online Shopping\",\"Book Store\",\"Magazine\",\"Subscription\",\"Music\",\"CDs\",\"DVDs\",\"Videos\",\"Electronics\",\"Video Games\",\"Computers\",\"Cell Phones\",\"Toys\",\"Games\",\"Apparel\",\"Accessories\",\"Shoes\",\"Jewelry\",\"Watches\",\"Office Products\",\"Sports & Outdoors\",\"Sporting Goods\",\"Baby Products\",\"Health\",\"Personal Care\",\"Beauty\",\"Home\",\"Garden\",\"Bed & Bath\",\"Furniture\",\"Tools\",\"Hardware\",\"Vacuums\",\"Outdoor Living\",\"Automotive Parts\",\"Pet Supplies\",\"Broadband\",\"DSL\"]",
+                     "guid": "FABEA9C3-C55E-4EC8-ADEA-19A32908E6C6",
+                     "imageData": "http://redir.opera.com/speeddials/partner/amazon_us",
+                     "imageDataType": "2",
+                     "imageID": "34766F2D8F7BECB8271F8C134765B173DA8407A5F46CBFF3F2F4398F1B5A6ABA",
+                     "imageType": "2",
+                     "partner_id": "amazon_us",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/amazon_us",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/amazon_us",
+                     "redirect": "1"
+                  },
+                  "name": "Amazon.com",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.amazon.com/"
+               }, {
+                  "date_added": "13151982645608551",
+                  "id": "112",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "7807893C-687B-4EC2-BFCA-034F804E6155",
+                     "imageData": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "imageDataType": "2",
+                     "imageID": "C308A0CF043769D2C7E56CB15D3123FEBA076C7F145445A2E243D9BFC22E019D",
+                     "imageType": "2",
+                     "partner_id": "dafiti",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "redirect": "1"
+                  },
+                  "name": "Dafiti",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.dafiti.com.br/"
+               }, {
+                  "date_added": "13151982645608681",
+                  "id": "113",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "F1BAF9F8-06A8-4190-836E-4302E745ED8A",
+                     "imageData": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "imageDataType": "2",
+                     "imageID": "6A931BB46665B72DB7CCED212DAC03FFF0FE0E8DECB3C99F94D6C44655B048F8",
+                     "imageType": "2",
+                     "partner_id": "decolar_com",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "redirect": "1"
+                  },
+                  "name": "Decolar",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.decolar.com/"
+               }, {
+                  "date_added": "13156709736461179",
+                  "id": "114",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "7cc51119-7968-4aaf-a9b0-9ea1afcbb397",
+                     "imageData": "http://redir.opera.com/speeddials/partner/gearbest_br",
+                     "imageDataType": "2",
+                     "imageID": "E5F2B26716516AEFD4FB2140806D0E747484D49E26B6795B6B40B7AE6F5FE32C",
+                     "imageType": "2",
+                     "partner_id": "gearbest_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/gearbest_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/gearbest_br",
+                     "redirect": "1"
+                  },
+                  "name": "Gearbest",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.gearbest.com/"
+               }, {
+                  "date_added": "13151982645608804",
+                  "id": "115",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "5AC8DD96-19A4-11E5-AF48-455D9330F945",
+                     "imageData": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "imageDataType": "2",
+                     "imageID": "1C6E16D104AEC48B14F29257CD0B71EA3BCE56115F8F2FAD4B56758FDB623988",
+                     "imageType": "2",
+                     "partner_id": "booking_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Booking.com",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               }, {
+                  "date_added": "13151982645608925",
+                  "id": "116",
+                  "meta_info": {
+                     "custom_keywords": "[\"Netshoes\"]",
+                     "guid": "BA6DBC8E-4713-11E5-8A6C-F394631DAC50",
+                     "imageData": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "imageDataType": "2",
+                     "imageID": "96815E35FABDBF688037FEA96FCB02C704712886BC7B06D2DBB588211B36E17D",
+                     "imageType": "2",
+                     "partner_id": "netshoes_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Netshoes",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://netshoes.com.br/"
+               }, {
+                  "date_added": "13151982645609052",
+                  "id": "117",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "a00bc9ce-b301-46b8-b02c-c04fa12642e2",
+                     "imageData": "http://redir.opera.com/speeddials/partner/casas_bahia_com_br",
+                     "imageDataType": "2",
+                     "imageID": "10AF8E450F1DFCBD92EF166C43C1D32C2D62EBD18D828C91BA8127E48A6DC315",
+                     "imageType": "2",
+                     "partner_id": "casas_bahia_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/casas_bahia_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/casas_bahia_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Casas Bahia",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://casasbahia.com.br/"
+               }, {
+                  "date_added": "13151982645609177",
+                  "id": "118",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "b26cdb3f-9e1d-4c93-b2fc-59f6127bf11c",
+                     "imageData": "http://redir.opera.com/speeddials/partner/americanas_com_br",
+                     "imageDataType": "2",
+                     "imageID": "5D9756BEF2A12479D735CF7AC23B8A89F93577BC8876D08764DD4194A0138657",
+                     "imageType": "2",
+                     "partner_id": "americanas_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/americanas_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/americanas_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Americanas",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.americanas.com.br/"
+               }, {
+                  "date_added": "13151982645609301",
+                  "id": "119",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "1614daac-04ed-4369-b38a-1164130dea64",
+                     "imageData": "http://redir.opera.com/speeddials/partner/pontofrio_com_br",
+                     "imageDataType": "2",
+                     "imageID": "90599CC69A2EF8718F33FDAA175DB12A2605C5947E2AB242049BE0F53CB8FD75",
+                     "imageType": "2",
+                     "partner_id": "pontofrio_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/pontofrio_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/pontofrio_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Pontofrio",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.pontofrio.com.br/"
+               }, {
+                  "date_added": "13151973314705899",
+                  "id": "120",
+                  "meta_info": {
+                     "custom_keywords": "[\"ebay\",\"electronics\",\"cars\",\"clothing\",\"apparel\",\"collectibles\",\"sporting goods\",\"digital cameras\",\"antiques\",\"tickets\",\"jewelry\",\"online shopping\",\"auction\",\"online auction\"]",
+                     "guid": "23502138-E3AE-4F1D-B75E-CC55AD4F25F9",
+                     "imageData": "http://redir.opera.com/speeddials/partner/ebay_us",
+                     "imageDataType": "2",
+                     "imageID": "1F1E2F3D706796225F0DDA1D337BE6397D367263E5B297C932C0FB1EA95F1382",
+                     "imageType": "2",
+                     "partner_id": "ebay_us",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/ebay_us",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/ebay_us",
+                     "redirect": "1"
+                  },
+                  "name": "eBay",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ebay.com/"
+               }, {
+                  "date_added": "13151973314706164",
+                  "id": "121",
+                  "meta_info": {
+                     "custom_keywords": "[\"hotel\",\"hotels\",\"hostel\",\"hostels\",\"holidays\",\"special offers\",\"specials\",\"packages\",\"weekend breaks\",\"city breaks\",\"deals\",\"budget\",\"cheap\",\"discount\",\"savings\"]",
+                     "guid": "9D10E3EC-D109-4279-8A32-81F4E131891A",
+                     "imageData": "http://redir.opera.com/speeddials/partner/booking_com_us",
+                     "imageDataType": "2",
+                     "imageID": "1C6E16D104AEC48B14F29257CD0B71EA3BCE56115F8F2FAD4B56758FDB623988",
+                     "imageType": "2",
+                     "partner_id": "booking_com_us",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/booking_com_us",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/booking_com_us",
+                     "redirect": "1"
+                  },
+                  "name": "Booking.com: Cheap Hotels",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               }, {
+                  "date_added": "13151973314706650",
+                  "id": "122",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "CA5F450C-7E47-11E5-AD34-E5F468A460B9",
+                     "imageData": "http://redir.opera.com/speeddials/partner/wallmart_com_us",
+                     "imageDataType": "2",
+                     "imageID": "6679926D632AE8D4BC2274EEA7F4131F989FD2A6C391E87C7D4763C17DFAE8DA",
+                     "imageType": "2",
+                     "partner_id": "wallmart_com_us",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/wallmart_com_us",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/wallmart_com_us",
+                     "redirect": "1"
+                  },
+                  "name": "Walmart",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.walmart.com/"
+               }, {
+                  "date_added": "13151973314706886",
+                  "id": "123",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "9191393c-4e48-4e53-a417-e164a50cdebc",
+                     "imageData": "http://redir.opera.com/speeddials/partner/overstock_us",
+                     "imageDataType": "2",
+                     "imageID": "FF7E7B5EE93C20D393B7668833CBE578AA3B14F63F9110E553528D035E195C3A",
+                     "imageType": "2",
+                     "partner_id": "overstock_us",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/overstock_us",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/overstock_us",
+                     "redirect": "1"
+                  },
+                  "name": "Overstock",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.overstock.com/"
+               }, {
+                  "children": [ {
+                     "date_added": "13151973314707177",
+                     "id": "126",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "502BDD5E-788E-11E5-A8F5-906BA0D99A02",
+                        "imageData": "http://redir.opera.com/speeddials/partner/expedia_com",
+                        "imageDataType": "2",
+                        "imageID": "5FBB5D768310EDF03B3FCCA81A3BCF6FF9A81C0C02D05028953ADC836F6ADAAA",
+                        "imageType": "2",
+                        "partner_id": "expedia_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/expedia_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/expedia_com",
+                        "redirect": "1"
+                     },
+                     "name": "Expedia",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.expedia.com/"
+                  }, {
+                     "date_added": "13151973314707413",
+                     "id": "127",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "84EB796E-788E-11E5-9FCD-906BA0D99A02",
+                        "imageData": "http://redir.opera.com/speeddials/partner/macys_com",
+                        "imageDataType": "2",
+                        "imageID": "E476FC59D75F5DAF8E48D4D9E7479066E85783B9EDE1CFB2DD3F8FEA2639120E",
+                        "imageType": "2",
+                        "partner_id": "macys_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/macys_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/macys_com",
+                        "redirect": "1"
+                     },
+                     "name": "Macys",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.macys.com/"
+                  }, {
+                     "date_added": "13151973314707646",
+                     "id": "128",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "4545EB06-788D-11E5-8852-35A564696656",
+                        "imageData": "http://redir.opera.com/speeddials/partner/nordstrom_com",
+                        "imageDataType": "2",
+                        "imageID": "A014E97FEDDA5D48FA29370B6C2286D3495C074EF88C342FE46312AA6B15BE52",
+                        "imageType": "2",
+                        "partner_id": "nordstrom_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/nordstrom_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/nordstrom_com",
+                        "redirect": "1"
+                     },
+                     "name": "Nordstrom",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.nordstrom.com/"
+                  }, {
+                     "date_added": "13151973314707889",
+                     "id": "129",
+                     "meta_info": {
+                        "custom_keywords": "[\"video\",\"sharing\",\"camera phone\",\"video phone\",\"free\",\"upload\"]",
+                        "guid": "CAFEC238-B329-458A-B84D-74F9F6CCF4E8",
+                        "imageData": "http://redir.opera.com/speeddials/partner/youtube",
+                        "imageDataType": "2",
+                        "imageID": "45D0AA34B9346B9C1CD482F465D18E25EF796A0CE412B7CA7C86B0C2ACC9CBEE",
+                        "imageType": "2",
+                        "partner_id": "youtube",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/youtube",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/youtube",
+                        "redirect": "1"
+                     },
+                     "name": "YouTube",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.youtube.com/"
+                  }, {
+                     "date_added": "13151973314708134",
+                     "id": "130",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "AD871A68-788E-11E5-A191-906BA0D99A02",
+                        "imageData": "http://redir.opera.com/speeddials/partner/priceline_com",
+                        "imageDataType": "2",
+                        "imageID": "2520518E785698CAAD7E3E4F30330DE91DFD24431270956FB103E9A08E2403F1",
+                        "imageType": "2",
+                        "partner_id": "priceline_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/priceline_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/priceline_com",
+                        "redirect": "1"
+                     },
+                     "name": "Priceline",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.priceline.com/"
+                  }, {
+                     "date_added": "13151973314708377",
+                     "id": "131",
+                     "meta_info": {
+                        "custom_keywords": "[\"Opera\",\"Opera Software\"]",
+                        "guid": "A724F2F7-489D-4F6A-934F-D632D12AA14E",
+                        "imageData": "http://redir.opera.com/speeddials/partner/product",
+                        "imageDataType": "2",
+                        "imageID": "399E9C81D7778AD2E47FD312A489293BC25D782C40E9BAFFA064599358DB4F69",
+                        "imageType": "2",
+                        "partner_id": "product",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/product",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/product",
+                        "redirect": "1"
+                     },
+                     "name": "Let's connect",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.opera.com/follow"
+                  }, {
+                     "date_added": "13151973314708649",
+                     "id": "132",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "86030665-A834-44CE-B2A0-85E5868DA9C0",
+                        "imageData": "http://redir.opera.com/speeddials/partner/wikipedia_org_us",
+                        "imageDataType": "2",
+                        "imageID": "49B1200B64B853A45BA0FCD595A8A9001A4A3B3AF113C17B347015B3FFC166D6",
+                        "imageType": "2",
+                        "partner_id": "wikipedia_org_us",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/wikipedia_org_us",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/wikipedia_org_us",
+                        "redirect": "1"
+                     },
+                     "name": "Wikipedia",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://en.wikipedia.org/"
+                  }, {
+                     "date_added": "13151973314708899",
+                     "id": "133",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "286A7B48-F2FD-11E4-A23C-ED654B860EDE",
+                        "imageData": "http://redir.opera.com/speeddials/partner/buzzfeed_com",
+                        "imageDataType": "2",
+                        "imageID": "B464C824555E00E9778AA0AE6D133B3AF8AB808FD7831F233867E6973DDD9303",
+                        "imageType": "2",
+                        "partner_id": "buzzfeed_com",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/buzzfeed_com",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/buzzfeed_com",
+                        "redirect": "1"
+                     },
+                     "name": "BuzzFeed",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.buzzfeed.com/"
+                  }, {
+                     "date_added": "13151973314709141",
+                     "id": "134",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "B00176BE-F317-11E4-B90D-F678B664A5DC",
+                        "imageData": "http://redir.opera.com/speeddials/partner/surfeasy",
+                        "imageDataType": "2",
+                        "imageID": "039399726519657F15241305D7300D638FCE25A7195D6454A6C7163577BEC313",
+                        "imageType": "2",
+                        "partner_id": "surfeasy",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/surfeasy",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/surfeasy",
+                        "redirect": "1"
+                     },
+                     "name": "SurfEasy",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.surfeasy.com/"
+                  }, {
+                     "date_added": "13151973314709388",
+                     "id": "135",
+                     "meta_info": {
+                        "custom_keywords": "[]",
+                        "guid": "B9452F7E-B3CA-4F09-AE30-13E09085D38D",
+                        "imageData": "http://redir.opera.com/speeddials/partner/twitter_us",
+                        "imageDataType": "2",
+                        "imageID": "EECC566C3CCD2ACDC6F3F12FE1FD9C7D268DA3F0D8899C1E60CE1A27EFEC7F6C",
+                        "imageType": "2",
+                        "partner_id": "twitter_us",
+                        "partner_image_download_url": "http://redir.opera.com/speeddials/partner/twitter_us",
+                        "partner_url": "http://redir.opera.com/speeddials/partner/twitter_us",
+                        "redirect": "1"
+                     },
+                     "name": "Twitter",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.twitter.com/"
+                  } ],
+                  "date_added": "13162071489486585",
+                  "date_modified": "13162071489486585",
+                  "id": "124",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "F5E80B10-6DD8-400E-9BD5-79DA525E2B0F",
+                     "partner_id": "",
+                     "partner_image_download_url": "",
+                     "partner_url": "",
+                     "redirect": "0"
+                  },
+                  "name": "",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               }, {
+                  "date_added": "13156709736448090",
+                  "id": "125",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "4237C2F8-1B68-11E6-8CE0-F70370A2A08B",
+                     "imageData": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_pt",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "redirect": "1"
+                  },
+                  "name": "AliExpress",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               } ],
+               "date_added": "13162071489483910",
+               "date_modified": "13162071489483910",
+               "id": "100",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "d77c48da-3f78-4fe3-81c1-c26a9fcd2cc5"
+               },
+               "name": "matheus-Aspire-E1-572",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13151963348886835",
+                  "id": "102",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "4237C2F8-1B68-11E6-8CE0-F70370A2A08B",
+                     "imageData": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "imageDataType": "2",
+                     "imageID": "F885B4060044588AC297096E89EBFD7478D864B8DF37764E601EDCDCD0CF9F23",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_pt",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/aliexpress_com_pt",
+                     "redirect": "1"
+                  },
+                  "name": "AliExpress",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13151963348887066",
+                  "id": "103",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "7807893C-687B-4EC2-BFCA-034F804E6155",
+                     "imageData": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "imageDataType": "2",
+                     "imageID": "C308A0CF043769D2C7E56CB15D3123FEBA076C7F145445A2E243D9BFC22E019D",
+                     "imageType": "2",
+                     "partner_id": "dafiti",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/dafiti",
+                     "redirect": "1"
+                  },
+                  "name": "Dafiti",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.dafiti.com.br/"
+               }, {
+                  "date_added": "13151963348887223",
+                  "id": "104",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "F1BAF9F8-06A8-4190-836E-4302E745ED8A",
+                     "imageData": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "imageDataType": "2",
+                     "imageID": "6A931BB46665B72DB7CCED212DAC03FFF0FE0E8DECB3C99F94D6C44655B048F8",
+                     "imageType": "2",
+                     "partner_id": "decolar_com",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/decolar_com",
+                     "redirect": "1"
+                  },
+                  "name": "Decolar",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.decolar.com/"
+               }, {
+                  "date_added": "13151963348887377",
+                  "id": "105",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "5AC8DD96-19A4-11E5-AF48-455D9330F945",
+                     "imageData": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "imageDataType": "2",
+                     "imageID": "1C6E16D104AEC48B14F29257CD0B71EA3BCE56115F8F2FAD4B56758FDB623988",
+                     "imageType": "2",
+                     "partner_id": "booking_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/booking_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Booking.com",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.booking.com/"
+               }, {
+                  "date_added": "13151963348887533",
+                  "id": "106",
+                  "meta_info": {
+                     "custom_keywords": "[\"Netshoes\"]",
+                     "guid": "BA6DBC8E-4713-11E5-8A6C-F394631DAC50",
+                     "imageData": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "imageDataType": "2",
+                     "imageID": "96815E35FABDBF688037FEA96FCB02C704712886BC7B06D2DBB588211B36E17D",
+                     "imageType": "2",
+                     "partner_id": "netshoes_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/netshoes_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Netshoes",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://netshoes.com.br/"
+               }, {
+                  "date_added": "13151963348887688",
+                  "id": "107",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "a00bc9ce-b301-46b8-b02c-c04fa12642e2",
+                     "imageData": "http://redir.opera.com/speeddials/partner/casas_bahia_com_br",
+                     "imageDataType": "2",
+                     "imageID": "10AF8E450F1DFCBD92EF166C43C1D32C2D62EBD18D828C91BA8127E48A6DC315",
+                     "imageType": "2",
+                     "partner_id": "casas_bahia_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/casas_bahia_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/casas_bahia_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Casas Bahia",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://casasbahia.com.br/"
+               }, {
+                  "date_added": "13151963348887899",
+                  "id": "108",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "b26cdb3f-9e1d-4c93-b2fc-59f6127bf11c",
+                     "imageData": "http://redir.opera.com/speeddials/partner/americanas_com_br",
+                     "imageDataType": "2",
+                     "imageID": "5D9756BEF2A12479D735CF7AC23B8A89F93577BC8876D08764DD4194A0138657",
+                     "imageType": "2",
+                     "partner_id": "americanas_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/americanas_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/americanas_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Americanas",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.americanas.com.br/"
+               }, {
+                  "date_added": "13151963348888058",
+                  "id": "109",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "1614daac-04ed-4369-b38a-1164130dea64",
+                     "imageData": "http://redir.opera.com/speeddials/partner/pontofrio_com_br",
+                     "imageDataType": "2",
+                     "imageID": "90599CC69A2EF8718F33FDAA175DB12A2605C5947E2AB242049BE0F53CB8FD75",
+                     "imageType": "2",
+                     "partner_id": "pontofrio_com_br",
+                     "partner_image_download_url": "http://redir.opera.com/speeddials/partner/pontofrio_com_br",
+                     "partner_url": "http://redir.opera.com/speeddials/partner/pontofrio_com_br",
+                     "redirect": "1"
+                  },
+                  "name": "Pontofrio",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.pontofrio.com.br/"
+               } ],
+               "date_added": "13162071489483927",
+               "date_modified": "13162071489483927",
+               "id": "101",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "3d0cafe8-54a0-4626-874b-d7aa9c37d2b0"
+               },
+               "name": "DESKTOP-VG6LAJJ",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13162059239681572",
+            "date_modified": "13162071489484022",
+            "id": "6",
+            "name": "Speed Dials",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [ {
+               "date_added": "13151973707508753",
+               "id": "86",
+               "meta_info": {
+                  "custom_keywords": "[]",
+                  "guid": "e59632ae-da4f-4639-8d8f-4b42f82082c0",
+                  "last_visited_desktop": "13162156088365640",
+                  "partner_id": "",
+                  "partner_image_download_url": "",
+                  "partner_url": "",
+                  "redirect": "0"
+               },
+               "name": "Settings",
+               "sync_transaction_version": "12",
+               "type": "url",
+               "url": "chrome://settings/"
+            }, {
+               "children": [  ],
+               "date_added": "13162071489483267",
+               "date_modified": "13162071489483267",
+               "id": "87",
+               "meta_info": {
+                  "custom_keywords": "[]",
+                  "guid": "8e730cc9-295a-46b7-b8f7-1937f907bcd8",
+                  "partner_id": "",
+                  "partner_image_download_url": "",
+                  "partner_url": "",
+                  "redirect": "0"
+               },
+               "name": "Folder",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "date_added": "13151964178209198",
+               "id": "88",
+               "name": "",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "chrome://placeholder/"
+            }, {
+               "children": [ {
+                  "date_added": "13148846018000000",
+                  "id": "90",
+                  "name": "Help and Tutorials",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13148846020000000",
+                  "id": "91",
+                  "name": "Customize Firefox",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/firefox/customize/"
+               }, {
+                  "date_added": "13148846031000000",
+                  "id": "92",
+                  "name": "Get Involved",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13148846010000000",
+                  "id": "93",
+                  "name": "About Us",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13102812095000000",
+                  "id": "94",
+                  "name": "Ajuda e dicas",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/firefox/help/"
+               }, {
+                  "date_added": "13102812095000000",
+                  "id": "95",
+                  "name": "Personalize o Firefox",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/firefox/customize/"
+               }, {
+                  "date_added": "13102812095000000",
+                  "id": "96",
+                  "name": "Participe",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/contribute/"
+               }, {
+                  "date_added": "13102812095000000",
+                  "id": "97",
+                  "name": "Sobre nós",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/pt-BR/about/"
+               } ],
+               "date_added": "13162071489483326",
+               "date_modified": "13162071489483326",
+               "id": "89",
+               "name": "Mozilla Firefox",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13162059239681572",
+            "date_modified": "13151973707508753",
+            "id": "7",
+            "name": "Trash",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13162059239681570",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13148846013000000",
+                  "id": "82",
+                  "name": "Ubuntu",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13148846020000000",
+                  "id": "83",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13148846013000000",
+                  "id": "84",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13148846017000000",
+                  "id": "85",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13162071489478537",
+               "date_modified": "13162071489478537",
+               "id": "21",
+               "name": "Ubuntu and Free Software links",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13136304708000000",
+                  "id": "73",
+                  "meta_info": {
+                     "last_visited_desktop": "13153193266777350"
+                  },
+                  "name": "PONS - Das kostenlose Online-Wörterbuch, Online-Shop mit Produkten und Apps rund ums Sprachenlernen und -nachschlagen, Unterrichtsvorbereitung, u.v.m.",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://de.pons.com/"
+               }, {
+                  "date_added": "13136304708000000",
+                  "id": "74",
+                  "meta_info": {
+                     "last_visited_desktop": "13153192632057588"
+                  },
+                  "name": "Verbix verb conjugator",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.verbix.com/"
+               }, {
+                  "date_added": "13126661671000000",
+                  "id": "75",
+                  "name": "Netflix",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.netflix.com/watch/80130781?trackId=200257858"
+               }, {
+                  "date_added": "13137859932000000",
+                  "id": "76",
+                  "name": "Kinderbücher kostenlos - Bücher",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.kinderbuecher-kostenlos.de/Buecher/"
+               }, {
+                  "date_added": "13140224558000000",
+                  "id": "77",
+                  "name": "Atalhos de teclado - Execute tarefas comuns rapidamente no Firefox | Ajuda do Firefox",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/pt-BR/kb/atalhos-teclado-execute-tarefas-comuns-rapidamente"
+               }, {
+                  "date_added": "13145984411000000",
+                  "id": "78",
+                  "name": "Watch Cartoons Online Free - Cartoons is not just for the kids",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://watchcartoonsonline.eu/"
+               }, {
+                  "date_added": "13149861438000000",
+                  "id": "79",
+                  "name": "USPCodeLab",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/USPCodeLab/"
+               }, {
+                  "date_added": "13149861456000000",
+                  "id": "80",
+                  "name": "Machina @ USP",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://machina-usp.github.io/"
+               }, {
+                  "date_added": "13150151226000000",
+                  "id": "81",
+                  "name": "Tutorialspoint",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.tutorialspoint.com/index.htm"
+               } ],
+               "date_added": "13162071489478614",
+               "date_modified": "13162071489478614",
+               "id": "22",
+               "name": "Outros favoritos",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13148846018000000",
+                     "id": "65",
+                     "name": "Help and Tutorials",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://support.mozilla.org/en-US/products/firefox"
+                  }, {
+                     "date_added": "13148846020000000",
+                     "id": "66",
+                     "name": "Customize Firefox",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/firefox/customize/"
+                  }, {
+                     "date_added": "13148846031000000",
+                     "id": "67",
+                     "name": "Get Involved",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/contribute/"
+                  }, {
+                     "date_added": "13148846010000000",
+                     "id": "68",
+                     "name": "About Us",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/about/"
+                  }, {
+                     "date_added": "13102812095000000",
+                     "id": "69",
+                     "name": "Ajuda e dicas",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/firefox/help/"
+                  }, {
+                     "date_added": "13102812095000000",
+                     "id": "70",
+                     "name": "Personalize o Firefox",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/firefox/customize/"
+                  }, {
+                     "date_added": "13102812095000000",
+                     "id": "71",
+                     "name": "Participe",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/contribute/"
+                  }, {
+                     "date_added": "13102812095000000",
+                     "id": "72",
+                     "name": "Sobre nós",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/about/"
+                  } ],
+                  "date_added": "13162071489480593",
+                  "date_modified": "13162071489480593",
+                  "id": "49",
+                  "name": "Mozilla Firefox",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13148846013000000",
+                     "id": "61",
+                     "name": "Ubuntu",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.ubuntu.com/"
+                  }, {
+                     "date_added": "13148846020000000",
+                     "id": "62",
+                     "name": "Ubuntu Wiki (community-edited website)",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://wiki.ubuntu.com/"
+                  }, {
+                     "date_added": "13148846013000000",
+                     "id": "63",
+                     "name": "Make a Support Request to the Ubuntu Community",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+                  }, {
+                     "date_added": "13148846017000000",
+                     "id": "64",
+                     "name": "Debian (Ubuntu is based on Debian)",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.debian.org/"
+                  } ],
+                  "date_added": "13162071489480621",
+                  "date_modified": "13162071489480621",
+                  "id": "50",
+                  "name": "Ubuntu and Free Software links",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13136304708000000",
+                     "id": "52",
+                     "meta_info": {
+                        "last_visited_desktop": "13153193266777350"
+                     },
+                     "name": "PONS - Das kostenlose Online-Wörterbuch, Online-Shop mit Produkten und Apps rund ums Sprachenlernen und -nachschlagen, Unterrichtsvorbereitung, u.v.m.",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://de.pons.com/"
+                  }, {
+                     "date_added": "13136304708000000",
+                     "id": "53",
+                     "meta_info": {
+                        "last_visited_desktop": "13153192632057588"
+                     },
+                     "name": "Verbix verb conjugator",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.verbix.com/"
+                  }, {
+                     "date_added": "13126661671000000",
+                     "id": "54",
+                     "name": "Netflix",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.netflix.com/watch/80130781?trackId=200257858"
+                  }, {
+                     "date_added": "13137859932000000",
+                     "id": "55",
+                     "name": "Kinderbücher kostenlos - Bücher",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.kinderbuecher-kostenlos.de/Buecher/"
+                  }, {
+                     "date_added": "13140224558000000",
+                     "id": "56",
+                     "name": "Atalhos de teclado - Execute tarefas comuns rapidamente no Firefox | Ajuda do Firefox",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://support.mozilla.org/pt-BR/kb/atalhos-teclado-execute-tarefas-comuns-rapidamente"
+                  }, {
+                     "date_added": "13145984411000000",
+                     "id": "57",
+                     "name": "Watch Cartoons Online Free - Cartoons is not just for the kids",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://watchcartoonsonline.eu/"
+                  }, {
+                     "date_added": "13149861438000000",
+                     "id": "58",
+                     "name": "USPCodeLab",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/USPCodeLab/"
+                  }, {
+                     "date_added": "13149861456000000",
+                     "id": "59",
+                     "name": "Machina @ USP",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://machina-usp.github.io/"
+                  }, {
+                     "date_added": "13150151226000000",
+                     "id": "60",
+                     "name": "Tutorialspoint",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.tutorialspoint.com/index.htm"
+                  } ],
+                  "date_added": "13162071489480647",
+                  "date_modified": "13162071489480647",
+                  "id": "51",
+                  "name": "Outros favoritos",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               } ],
+               "date_added": "13162071489478649",
+               "date_modified": "13162071489478649",
+               "id": "23",
+               "name": "Importados do Firefox",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13148011629000000",
+                     "id": "41",
+                     "name": "Help and Tutorials",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://support.mozilla.org/en-US/products/firefox"
+                  }, {
+                     "date_added": "13148011629000000",
+                     "id": "42",
+                     "name": "Customize Firefox",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/firefox/customize/"
+                  }, {
+                     "date_added": "13148011629000000",
+                     "id": "43",
+                     "name": "Get Involved",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/contribute/"
+                  }, {
+                     "date_added": "13148011629000000",
+                     "id": "44",
+                     "name": "About Us",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/about/"
+                  }, {
+                     "date_added": "13093828915000000",
+                     "id": "45",
+                     "name": "Ajuda e dicas",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/firefox/help/"
+                  }, {
+                     "date_added": "13093828915000000",
+                     "id": "46",
+                     "name": "Personalize o Firefox",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/firefox/customize/"
+                  }, {
+                     "date_added": "13093828915000000",
+                     "id": "47",
+                     "name": "Participe",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/contribute/"
+                  }, {
+                     "date_added": "13093828915000000",
+                     "id": "48",
+                     "name": "Sobre nós",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/pt-BR/about/"
+                  } ],
+                  "date_added": "13162071489478713",
+                  "date_modified": "13162071489478713",
+                  "id": "25",
+                  "name": "Mozilla Firefox",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13148011629000000",
+                     "id": "37",
+                     "name": "Ubuntu",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.ubuntu.com/"
+                  }, {
+                     "date_added": "13148011629000000",
+                     "id": "38",
+                     "name": "Ubuntu Wiki (community-edited website)",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://wiki.ubuntu.com/"
+                  }, {
+                     "date_added": "13148011629000000",
+                     "id": "39",
+                     "name": "Make a Support Request to the Ubuntu Community",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+                  }, {
+                     "date_added": "13148011629000000",
+                     "id": "40",
+                     "name": "Debian (Ubuntu is based on Debian)",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.debian.org/"
+                  } ],
+                  "date_added": "13162071489478744",
+                  "date_modified": "13162071489478744",
+                  "id": "26",
+                  "name": "Ubuntu and Free Software links",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13135087866000000",
+                     "id": "28",
+                     "meta_info": {
+                        "last_visited_desktop": "13153193266777350"
+                     },
+                     "name": "PONS - Das kostenlose Online-Wörterbuch, Online-Shop mit Produkten und Apps rund ums Sprachenlernen und -nachschlagen, Unterrichtsvorbereitung, u.v.m.",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://de.pons.com/"
+                  }, {
+                     "date_added": "13135089063000000",
+                     "id": "29",
+                     "meta_info": {
+                        "last_visited_desktop": "13153192632057588"
+                     },
+                     "name": "Verbix verb conjugator",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://www.verbix.com/"
+                  }, {
+                     "date_added": "13136304708000000",
+                     "id": "30",
+                     "name": "Netflix",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.netflix.com/watch/80130781?trackId=200257858"
+                  }, {
+                     "date_added": "13137637959000000",
+                     "id": "31",
+                     "name": "Kinderbücher kostenlos - Bücher",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.kinderbuecher-kostenlos.de/Buecher/"
+                  }, {
+                     "date_added": "13139762698000000",
+                     "id": "32",
+                     "name": "Atalhos de teclado - Execute tarefas comuns rapidamente no Firefox | Ajuda do Firefox",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://support.mozilla.org/pt-BR/kb/atalhos-teclado-execute-tarefas-comuns-rapidamente"
+                  }, {
+                     "date_added": "13145984418000000",
+                     "id": "33",
+                     "name": "Watch Cartoons Online Free - Cartoons is not just for the kids",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "http://watchcartoonsonline.eu/"
+                  }, {
+                     "date_added": "13149861438000000",
+                     "id": "34",
+                     "name": "USPCodeLab",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/USPCodeLab/"
+                  }, {
+                     "date_added": "13149861456000000",
+                     "id": "35",
+                     "name": "Machina @ USP",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://machina-usp.github.io/"
+                  }, {
+                     "date_added": "13150151226000000",
+                     "id": "36",
+                     "name": "Tutorialspoint",
+                     "sync_transaction_version": "3",
+                     "type": "url",
+                     "url": "https://www.tutorialspoint.com/index.htm"
+                  } ],
+                  "date_added": "13162071489478774",
+                  "date_modified": "13162071489478774",
+                  "id": "27",
+                  "name": "Other Bookmarks",
+                  "sync_transaction_version": "3",
+                  "type": "folder"
+               } ],
+               "date_added": "13162071489478680",
+               "date_modified": "13162071489478680",
+               "id": "24",
+               "name": "Imported from Firefox",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13162059239681571",
+            "date_modified": "0",
+            "id": "5",
+            "name": "All bookmarks",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13162059239557476",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "sync_transaction_version": "12",
+      "synced": {
+         "children": [  ],
+         "date_added": "13162059239557481",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

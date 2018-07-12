@@ -1,0 +1,47 @@
+[2018-06-20 17:06:11.260] [sharedprocess] [info] main {"machineId":"c37e4895fb105ed02f9c5460573e1003d9052a49269d3bd11f06f8d643b56860"}
+[2018-06-20 17:06:13.992] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:14.554] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-20 17:06:15.774] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:15.775] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:15.786] [sharedprocess] [info] Deleted from disk eamodio.gitlens-8.3.5
+[2018-06-20 17:06:15.792] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-20 17:06:18.604] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:18.753] [sharedprocess] [info] Installing extension: gitlens
+[2018-06-20 17:06:18.754] [sharedprocess] [info] Installing extension: python
+[2018-06-20 17:06:18.823] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:18.828] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:21.062] [sharedprocess] [info] Downloaded extension: gitlens
+[2018-06-20 17:06:22.130] [sharedprocess] [info] Extracted extension to /home/matheus/.vscode/extensions/.eamodio.gitlens-8.4.1: eamodio.gitlens-8.4.1
+[2018-06-20 17:06:22.130] [sharedprocess] [info] Renamed to /home/matheus/.vscode/extensions/eamodio.gitlens-8.4.1
+[2018-06-20 17:06:22.130] [sharedprocess] [info] Installation completed. eamodio.gitlens-8.4.1
+[2018-06-20 17:06:22.346] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2018-06-20 17:06:22.510] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:22.523] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-20 17:06:25.147] [sharedprocess] [info] Downloaded extension: python
+[2018-06-20 17:06:30.850] [sharedprocess] [info] Extracted extension to /home/matheus/.vscode/extensions/.ms-python.python-2018.6.0: ms-python.python-2018.6.0
+[2018-06-20 17:06:31.276] [sharedprocess] [info] Renamed to /home/matheus/.vscode/extensions/ms-python.python-2018.6.0
+[2018-06-20 17:06:31.276] [sharedprocess] [info] Installation completed. ms-python.python-2018.6.0
+[2018-06-20 17:06:31.776] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2018-06-20 17:06:32.013] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:06:32.025] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-20 17:06:51.275] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-20 17:11:18.681] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:16:18.743] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:21:18.799] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:26:18.868] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:31:18.925] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:36:18.984] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:41:19.039] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:46:19.114] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:51:19.171] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 17:56:19.218] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:01:19.271] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:06:19.402] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:11:19.465] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:16:19.520] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:21:19.575] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:26:19.628] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:31:19.683] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:36:19.743] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:41:19.801] [sharedprocess] [info] Scanned user extensions: 30
+[2018-06-20 18:46:19.863] [sharedprocess] [info] Scanned user extensions: 30

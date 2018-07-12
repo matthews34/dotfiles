@@ -1,0 +1,6 @@
+2018/06/20-16:57:24.318 6250 Reusing MANIFEST /home/matheus/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/06/20-16:57:24.318 6250 Recovering log #228
+2018/06/20-16:57:24.319 6250 Reusing old log /home/matheus/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000228.log 
+2018/06/20-17:00:04.870 6599 Level-0 table #234: started
+2018/06/20-17:00:05.081 6599 Level-0 table #234: 5644277 bytes OK
+2018/06/20-17:00:05.199 6599 Delete type=0 #228

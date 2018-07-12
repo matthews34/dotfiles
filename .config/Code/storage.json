@@ -1,0 +1,563 @@
+{
+    "telemetry.machineId": "c37e4895fb105ed02f9c5460573e1003d9052a49269d3bd11f06f8d643b56860",
+    "lastKnownKeybindings": {
+        "workbench.action.files.newUntitledFile": {
+            "id": "workbench.action.files.newUntitledFile",
+            "label": "Ctrl+N",
+            "isNative": true
+        },
+        "workbench.action.files.openFolder": {
+            "id": "workbench.action.files.openFolder",
+            "label": "Ctrl+K Ctrl+O",
+            "isNative": false
+        },
+        "workbench.action.files.openFile": {
+            "id": "workbench.action.files.openFile",
+            "label": "Ctrl+O",
+            "isNative": true
+        },
+        "workbench.action.reopenClosedEditor": {
+            "id": "workbench.action.reopenClosedEditor",
+            "label": "Ctrl+Shift+T",
+            "isNative": true
+        },
+        "workbench.action.openRecent": {
+            "id": "workbench.action.openRecent",
+            "label": "Ctrl+R",
+            "isNative": true
+        },
+        "workbench.action.files.save": {
+            "id": "workbench.action.files.save",
+            "label": "Ctrl+S",
+            "isNative": true
+        },
+        "workbench.action.files.saveAs": {
+            "id": "workbench.action.files.saveAs",
+            "label": "Ctrl+Shift+S",
+            "isNative": true
+        },
+        "workbench.action.openSettings": {
+            "id": "workbench.action.openSettings",
+            "label": "Ctrl+,",
+            "isNative": false
+        },
+        "workbench.action.openGlobalKeybindings": {
+            "id": "workbench.action.openGlobalKeybindings",
+            "label": "Ctrl+K Ctrl+S",
+            "isNative": false
+        },
+        "workbench.extensions.action.showRecommendedKeymapExtensions": {
+            "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
+            "label": "Ctrl+K Ctrl+M",
+            "isNative": false
+        },
+        "workbench.action.selectTheme": {
+            "id": "workbench.action.selectTheme",
+            "label": "Ctrl+K Ctrl+T",
+            "isNative": false
+        },
+        "workbench.action.newWindow": {
+            "id": "workbench.action.newWindow",
+            "label": "Ctrl+Shift+N",
+            "isNative": true
+        },
+        "workbench.action.closeWindow": {
+            "id": "workbench.action.closeWindow",
+            "label": "Ctrl+W",
+            "isNative": true
+        },
+        "workbench.action.closeFolder": {
+            "id": "workbench.action.closeFolder",
+            "label": "Ctrl+K F",
+            "isNative": false
+        },
+        "workbench.action.closeActiveEditor": {
+            "id": "workbench.action.closeActiveEditor",
+            "label": "Ctrl+W",
+            "isNative": true
+        },
+        "workbench.action.quit": {
+            "id": "workbench.action.quit",
+            "label": "Ctrl+Q",
+            "isNative": true
+        },
+        "undo": {
+            "id": "undo",
+            "label": "Ctrl+Z",
+            "isNative": true
+        },
+        "redo": {
+            "id": "redo",
+            "label": "Ctrl+Y",
+            "isNative": true
+        },
+        "editor.action.clipboardCutAction": {
+            "id": "editor.action.clipboardCutAction",
+            "label": "Ctrl+X",
+            "isNative": true
+        },
+        "editor.action.clipboardCopyAction": {
+            "id": "editor.action.clipboardCopyAction",
+            "label": "Ctrl+C",
+            "isNative": true
+        },
+        "editor.action.clipboardPasteAction": {
+            "id": "editor.action.clipboardPasteAction",
+            "label": "Ctrl+V",
+            "isNative": true
+        },
+        "actions.find": {
+            "id": "actions.find",
+            "label": "Ctrl+F",
+            "isNative": true
+        },
+        "editor.action.startFindReplaceAction": {
+            "id": "editor.action.startFindReplaceAction",
+            "label": "Ctrl+H",
+            "isNative": true
+        },
+        "workbench.action.findInFiles": {
+            "id": "workbench.action.findInFiles",
+            "label": "Ctrl+Shift+F",
+            "isNative": true
+        },
+        "workbench.action.replaceInFiles": {
+            "id": "workbench.action.replaceInFiles",
+            "label": "Ctrl+Shift+H",
+            "isNative": true
+        },
+        "editor.emmet.action.expandAbbreviation": {
+            "id": "editor.emmet.action.expandAbbreviation",
+            "label": "Tab",
+            "isNative": true
+        },
+        "editor.action.commentLine": {
+            "id": "editor.action.commentLine",
+            "label": "Ctrl+/",
+            "isNative": false
+        },
+        "editor.action.blockComment": {
+            "id": "editor.action.blockComment",
+            "label": "Ctrl+Shift+A",
+            "isNative": true
+        },
+        "editor.action.insertCursorAbove": {
+            "id": "editor.action.insertCursorAbove",
+            "label": "Shift+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.insertCursorBelow": {
+            "id": "editor.action.insertCursorBelow",
+            "label": "Shift+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.insertCursorAtEndOfEachLineSelected": {
+            "id": "editor.action.insertCursorAtEndOfEachLineSelected",
+            "label": "Shift+Alt+I",
+            "isNative": true
+        },
+        "editor.action.addSelectionToNextFindMatch": {
+            "id": "editor.action.addSelectionToNextFindMatch",
+            "label": "Ctrl+D",
+            "isNative": true
+        },
+        "editor.action.selectHighlights": {
+            "id": "editor.action.selectHighlights",
+            "label": "Ctrl+Shift+L",
+            "isNative": true
+        },
+        "editor.action.copyLinesUpAction": {
+            "id": "editor.action.copyLinesUpAction",
+            "label": "Ctrl+Shift+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.copyLinesDownAction": {
+            "id": "editor.action.copyLinesDownAction",
+            "label": "Ctrl+Shift+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.moveLinesUpAction": {
+            "id": "editor.action.moveLinesUpAction",
+            "label": "Alt+Up",
+            "isNative": true
+        },
+        "editor.action.moveLinesDownAction": {
+            "id": "editor.action.moveLinesDownAction",
+            "label": "Alt+Down",
+            "isNative": true
+        },
+        "editor.action.selectAll": {
+            "id": "editor.action.selectAll",
+            "label": "Ctrl+A",
+            "isNative": true
+        },
+        "editor.action.smartSelect.grow": {
+            "id": "editor.action.smartSelect.grow",
+            "label": "Shift+Alt+Right",
+            "isNative": true
+        },
+        "editor.action.smartSelect.shrink": {
+            "id": "editor.action.smartSelect.shrink",
+            "label": "Shift+Alt+Left",
+            "isNative": true
+        },
+        "workbench.view.explorer": {
+            "id": "workbench.view.explorer",
+            "label": "Ctrl+Shift+E",
+            "isNative": true
+        },
+        "workbench.view.search": {
+            "id": "workbench.view.search",
+            "label": "Ctrl+Shift+F",
+            "isNative": true
+        },
+        "workbench.view.scm": {
+            "id": "workbench.view.scm",
+            "label": "Ctrl+Shift+G G",
+            "isNative": false
+        },
+        "workbench.view.debug": {
+            "id": "workbench.view.debug",
+            "label": "Ctrl+Shift+D",
+            "isNative": true
+        },
+        "workbench.view.extensions": {
+            "id": "workbench.view.extensions",
+            "label": "Ctrl+Shift+X",
+            "isNative": true
+        },
+        "workbench.action.output.toggleOutput": {
+            "id": "workbench.action.output.toggleOutput",
+            "label": "Ctrl+K Ctrl+H",
+            "isNative": false
+        },
+        "workbench.debug.action.toggleRepl": {
+            "id": "workbench.debug.action.toggleRepl",
+            "label": "Ctrl+Shift+Y",
+            "isNative": true
+        },
+        "workbench.action.terminal.toggleTerminal": {
+            "id": "workbench.action.terminal.toggleTerminal",
+            "label": "Ctrl+Shift+´",
+            "isNative": false
+        },
+        "workbench.actions.view.problems": {
+            "id": "workbench.actions.view.problems",
+            "label": "Ctrl+Shift+M",
+            "isNative": true
+        },
+        "workbench.action.showCommands": {
+            "id": "workbench.action.showCommands",
+            "label": "Ctrl+Shift+P",
+            "isNative": true
+        },
+        "workbench.action.toggleFullScreen": {
+            "id": "workbench.action.toggleFullScreen",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.toggleZenMode": {
+            "id": "workbench.action.toggleZenMode",
+            "label": "Ctrl+K Z",
+            "isNative": false
+        },
+        "workbench.action.splitEditor": {
+            "id": "workbench.action.splitEditor",
+            "label": "Ctrl+\\",
+            "isNative": false
+        },
+        "workbench.action.toggleEditorGroupLayout": {
+            "id": "workbench.action.toggleEditorGroupLayout",
+            "label": "Shift+Alt+0",
+            "isNative": true
+        },
+        "workbench.action.toggleSidebarVisibility": {
+            "id": "workbench.action.toggleSidebarVisibility",
+            "label": "Ctrl+B",
+            "isNative": true
+        },
+        "workbench.action.togglePanel": {
+            "id": "workbench.action.togglePanel",
+            "label": "Ctrl+J",
+            "isNative": true
+        },
+        "editor.action.toggleWordWrap": {
+            "id": "editor.action.toggleWordWrap",
+            "label": "Alt+Z",
+            "isNative": true
+        },
+        "workbench.action.zoomIn": {
+            "id": "workbench.action.zoomIn",
+            "label": "Ctrl+=",
+            "isNative": false
+        },
+        "workbench.action.zoomOut": {
+            "id": "workbench.action.zoomOut",
+            "label": "Ctrl+-",
+            "isNative": false
+        },
+        "workbench.action.zoomReset": {
+            "id": "workbench.action.zoomReset",
+            "label": "Ctrl+NumPad0",
+            "isNative": false
+        },
+        "workbench.action.navigateForward": {
+            "id": "workbench.action.navigateForward",
+            "label": "Ctrl+Shift+-",
+            "isNative": false
+        },
+        "workbench.action.nextEditor": {
+            "id": "workbench.action.nextEditor",
+            "label": "Ctrl+PageDown",
+            "isNative": true
+        },
+        "workbench.action.previousEditor": {
+            "id": "workbench.action.previousEditor",
+            "label": "Ctrl+PageUp",
+            "isNative": true
+        },
+        "workbench.action.openNextRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openNextRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Tab",
+            "isNative": true
+        },
+        "workbench.action.openPreviousRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Shift+Tab",
+            "isNative": true
+        },
+        "workbench.action.focusFirstEditorGroup": {
+            "id": "workbench.action.focusFirstEditorGroup",
+            "label": "Ctrl+1",
+            "isNative": true
+        },
+        "workbench.action.focusSecondEditorGroup": {
+            "id": "workbench.action.focusSecondEditorGroup",
+            "label": "Ctrl+2",
+            "isNative": true
+        },
+        "workbench.action.focusThirdEditorGroup": {
+            "id": "workbench.action.focusThirdEditorGroup",
+            "label": "Ctrl+3",
+            "isNative": true
+        },
+        "workbench.action.focusNextGroup": {
+            "id": "workbench.action.focusNextGroup",
+            "label": "Ctrl+K Ctrl+RightArrow",
+            "isNative": false
+        },
+        "workbench.action.focusPreviousGroup": {
+            "id": "workbench.action.focusPreviousGroup",
+            "label": "Ctrl+K Ctrl+LeftArrow",
+            "isNative": false
+        },
+        "workbench.action.quickOpen": {
+            "id": "workbench.action.quickOpen",
+            "label": "Ctrl+P",
+            "isNative": true
+        },
+        "workbench.action.gotoSymbol": {
+            "id": "workbench.action.gotoSymbol",
+            "label": "Ctrl+Shift+O",
+            "isNative": true
+        },
+        "workbench.action.showAllSymbols": {
+            "id": "workbench.action.showAllSymbols",
+            "label": "Ctrl+T",
+            "isNative": true
+        },
+        "editor.action.goToDeclaration": {
+            "id": "editor.action.goToDeclaration",
+            "label": "F12",
+            "isNative": true
+        },
+        "editor.action.goToImplementation": {
+            "id": "editor.action.goToImplementation",
+            "label": "Ctrl+F12",
+            "isNative": true
+        },
+        "workbench.action.gotoLine": {
+            "id": "workbench.action.gotoLine",
+            "label": "Ctrl+G",
+            "isNative": true
+        },
+        "workbench.action.debug.start": {
+            "id": "workbench.action.debug.start",
+            "label": "F5",
+            "isNative": true
+        },
+        "workbench.action.debug.run": {
+            "id": "workbench.action.debug.run",
+            "label": "Ctrl+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stop": {
+            "id": "workbench.action.debug.stop",
+            "label": "Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.restart": {
+            "id": "workbench.action.debug.restart",
+            "label": "Ctrl+Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOver": {
+            "id": "workbench.action.debug.stepOver",
+            "label": "F10",
+            "isNative": true
+        },
+        "workbench.action.debug.stepInto": {
+            "id": "workbench.action.debug.stepInto",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOut": {
+            "id": "workbench.action.debug.stepOut",
+            "label": "Shift+F11",
+            "isNative": true
+        },
+        "workbench.action.debug.continue": {
+            "id": "workbench.action.debug.continue",
+            "label": "F5",
+            "isNative": true
+        },
+        "editor.debug.action.toggleBreakpoint": {
+            "id": "editor.debug.action.toggleBreakpoint",
+            "label": "F9",
+            "isNative": true
+        },
+        "editor.debug.action.toggleInlineBreakpoint": {
+            "id": "editor.debug.action.toggleInlineBreakpoint",
+            "label": "Shift+F9",
+            "isNative": true
+        },
+        "workbench.action.tasks.build": {
+            "id": "workbench.action.tasks.build",
+            "label": "Ctrl+Shift+B",
+            "isNative": true
+        }
+    },
+    "theme": "vs-dark Equinusocio-vsc-material-theme-themes-Material-Theme-Darker-High-Contrast-json",
+    "themeBackground": "#212121",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/matheus/Documents/Numerico/EP2-Numerico",
+            "backupPath": "/home/matheus/.config/Code/Backups/eec3a5605bbb898f41bef84fc3c2c836",
+            "uiState": {
+                "mode": 1,
+                "x": 1,
+                "y": 1,
+                "width": 1364,
+                "height": 747
+            }
+        }
+    },
+    "pickerWorkingDir": "/home/matheus/Documents/Numerico/EP1/EP-Numerico",
+    "openedPathsList": {
+        "workspaces": [
+            "/home/matheus/Documents/Numerico/EP2-Numerico",
+            "/home/matheus/Documents/codelab/iris",
+            "/home/matheus/Documents/LabDig/relogio_xadrez_restored",
+            "/home/matheus/.config/i3",
+            "/home/matheus/Documents/codelab/iris/api",
+            "/home/matheus/Documents/codelab/iris/api/app",
+            "/home/matheus/Documents/codelab/iris/web",
+            "/home/matheus/Documents/Numerico/EP1/EP-Numerico",
+            "/home/matheus/.config/terminator",
+            "/home/matheus/Documents/Numérico/EP1",
+            "/home/matheus/Documents/Numerico/EP1",
+            "/home/matheus/Documents/LabDig/experiencia08",
+            "/home/matheus/Documents/codelab/learn/shell",
+            "/home/matheus/Documents/codelab/docker/udemy-docker-mastery/dockerfile-assignment-1",
+            "/home/matheus/Documents/LabDig",
+            "/home/matheus/Documents/LabDig/divisor_mod50M_restored/divisor",
+            "/etc/apache2",
+            "/home/matheus/Documents/codelab/eris/pwa/middleware"
+        ],
+        "files": [
+            "/home/matheus/Desktop/caio.c",
+            "/home/matheus/Documents/Numerico/EP1/EP-Numerico/main.c",
+            "/home/matheus/.config/i3/config",
+            "/home/matheus/.config/i3status/config",
+            "/home/matheus/.Xresources",
+            "/usr/lib/urxvt/perl/clipboard-osc",
+            "/home/matheus/.config/ranger/scope.sh",
+            "/home/matheus/.zshrc",
+            "/home/matheus/.config/terminator/config",
+            "/home/matheus/.config/ranger/rc.conf",
+            "/home/matheus/birthday.sh",
+            "/home/matheus/.config/polybar/weather.py",
+            "/home/matheus/.config/polybar/mpris.sh",
+            "/home/matheus/mpr",
+            "/home/matheus/.config/polybar/config",
+            "/home/matheus/Documents/i3exit",
+            "/usr/local/bin/i3exit.sh",
+            "/home/matheus/.config/polybar/launch.sh",
+            "/home/matheus/Downloads/clion-2018.1.2/Install-Linux-tar.txt",
+            "/media/matheus/Lexar/NI Circuit Design Suite 14.0/Readme.txt",
+            "/home/matheus/Documents/codelab/eris/pwa/docker-compose.yml",
+            "/home/matheus/Documents/codelab/learn/flask/hello.py",
+            "/home/matheus/Documents/codelab/docker/python-flask/app-test/run.py",
+            "/home/matheus/Documents/codelab/docker/python-flask/3.6.5-alpine/app.py",
+            "/home/matheus/Documents/codelab/docker/python-flask/3.6.5-alpine/Dockerfile",
+            "/home/matheus/Documents/Conversão/EP1-Conversao/main.m",
+            "/home/matheus/.vimrc",
+            "/etc/nanorc",
+            "/home/matheus/teste/repositories",
+            "/etc/apache2/sites-available/default-ssl.conf",
+            "/etc/apache2/sites-available/000-default.conf",
+            "/etc/apache2/mods-available/userdir.conf",
+            "/etc/apache2/apache2.conf",
+            "/home/matheus/Documents/codelab/iris/docker-compose.yml",
+            "/home/matheus/Quartus-lite-17.1.0.590-linux/readme.txt",
+            "/etc/postgresql/9.6/main/environment",
+            "/etc/apt/sources.list.d/pgdg.list",
+            "/home/matheus/IntelliJ IDEA/Install-Linux-tar.txt",
+            "/home/matheus/eagle-8.6.3/README",
+            "/home/matheus/Downloads/eagle-8.6.3/README",
+            "/home/matheus/Downloads/eagle-8.6.0/README",
+            "/home/matheus/Downloads/matlab_R2015a_glnxa64/activate.ini",
+            "/home/matheus/Documents/Programação Web/teste.py",
+            "/home/matheus/Documents/Programação Web/teste.rb",
+            "/home/matheus/Documents/Programação Web/rails/blog/app/views/articles/new.html.erb",
+            "/home/matheus/Documents/Programação Web/rails/blog/app/controllers/articles_controller.rb",
+            "/home/matheus/Documents/Programação Web/rails/blog/config/routes.rb",
+            "/home/matheus/Documents/Programação Web/rails/blog/app/views/welcome/index.html.erb",
+            "/home/matheus/Documents/welcome.sh",
+            "/home/matheus/.icons/default/index.theme",
+            "/home/matheus/Documents/codelab/iris/teste.sql",
+            "/home/matheus/Documents/codelab/iris/teste.sh",
+            "/home/matheus/Documents/codelab/iris/teste",
+            "/home/matheus/Documents/codelab/iris/CONTRIBUTING.md",
+            "/home/matheus/Documents/codelab/eris/pwa/CONTRIBUTING.md",
+            "/home/matheus/Documents/codelab/iris/README.md",
+            "/home/matheus/Documents/codelab/eris/api/docker-compose.yml",
+            "/home/matheus/Documents/codelab/eris/api/app/controllers/v1/features_controller.rb",
+            "/home/matheus/Documents/codelab/eris/api/app/controllers/v1/requests_controller.rb",
+            "/home/matheus/Documents/codelab/eris/api/app/controllers/v1/user_flow_controller.rb",
+            "/home/matheus/Documents/codelab/eris/pwa/pages/teste.vue",
+            "/home/matheus/Documents/codelab/eris/api/config/routes.rb",
+            "/home/matheus/Documents/codelab/eris/api/app/models/v1/feature.rb",
+            "/home/matheus/Documents/codelab/eris/api/app/models/v1/position.rb",
+            "/home/matheus/Documents/codelab/eris/api/app/models/v1/request.rb",
+            "/home/matheus/Documents/codelab/eris/pwa/assets/css/main.css",
+            "/home/matheus/Documents/codelab/eris/pwa/components/ReserveButton.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/components/ReservePreferences.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/components/Reserve.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/pages/reserve.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/components/ReserveExplanation.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/pages/index.vue",
+            "/home/matheus/test.sh",
+            "/home/matheus/teste.sh",
+            "/home/matheus/teste.c",
+            "/home/matheus/Documents/Programação Web/javascript/teste.html",
+            "/home/matheus/teste.js",
+            "/home/matheus/Documents/codelab/eris/pwa/components/RenewNotification.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/components/ReserveNotification.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/pages/README.md",
+            "/home/matheus/Documents/codelab/eris/pwa/pages/login.vue",
+            "/home/matheus/Documents/codelab/eris/pwa/pages/ChangeLocker.vue"
+        ]
+    }
+}

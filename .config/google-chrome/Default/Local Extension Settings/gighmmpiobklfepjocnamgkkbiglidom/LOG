@@ -1,0 +1,35 @@
+2018/06/21-16:44:41.568 5663 Reusing MANIFEST /home/matheus/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2018/06/21-16:44:41.568 5663 Recovering log #507
+2018/06/21-16:44:41.723 5663 Reusing old log /home/matheus/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000507.log 
+2018/06/21-16:45:41.567 6282 Level-0 table #513: started
+2018/06/21-16:45:41.722 6282 Level-0 table #513: 3380399 bytes OK
+2018/06/21-16:45:41.779 6282 Delete type=0 #507
+2018/06/21-16:45:43.275 6282 Level-0 table #515: started
+2018/06/21-16:45:43.419 6282 Level-0 table #515: 3380449 bytes OK
+2018/06/21-16:45:43.464 6282 Delete type=0 #512
+2018/06/21-16:45:46.280 6282 Level-0 table #517: started
+2018/06/21-16:45:46.443 6282 Level-0 table #517: 3380908 bytes OK
+2018/06/21-16:45:46.488 6282 Delete type=0 #514
+2018/06/21-17:30:20.623 6282 Level-0 table #519: started
+2018/06/21-17:30:20.929 6282 Level-0 table #519: 3380165 bytes OK
+2018/06/21-17:30:21.304 6282 Delete type=0 #516
+2018/06/21-17:30:21.307 6282 Compacting 4@0 + 2@1 files
+2018/06/21-17:30:21.825 6282 Generated table #520@0: 1 keys, 3380165 bytes
+2018/06/21-17:30:21.981 6282 Generated table #521@0: 6 keys, 457 bytes
+2018/06/21-17:30:21.981 6282 Compacted 4@0 + 2@1 files => 3380622 bytes
+2018/06/21-17:30:22.158 6282 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/06/21-17:30:22.159 6282 Delete type=2 #517
+2018/06/21-17:30:22.160 6282 Delete type=2 #513
+2018/06/21-17:30:22.162 6282 Delete type=2 #515
+2018/06/21-17:30:22.163 6282 Delete type=2 #510
+2018/06/21-17:30:22.163 6282 Delete type=2 #509
+2018/06/21-17:30:22.163 6282 Delete type=2 #519
+2018/06/21-17:45:41.416 6282 Level-0 table #523: started
+2018/06/21-17:45:41.550 6282 Level-0 table #523: 3380240 bytes OK
+2018/06/21-17:45:41.595 6282 Delete type=0 #518
+2018/06/21-18:03:14.272 6282 Level-0 table #525: started
+2018/06/21-18:03:14.431 6282 Level-0 table #525: 3380398 bytes OK
+2018/06/21-18:03:14.730 6282 Delete type=0 #522
+2018/06/21-18:45:41.421 6282 Level-0 table #527: started
+2018/06/21-18:45:41.566 6282 Level-0 table #527: 3380229 bytes OK
+2018/06/21-18:45:41.623 6282 Delete type=0 #524

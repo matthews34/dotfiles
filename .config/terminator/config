@@ -1,0 +1,73 @@
+[global_config]
+  always_split_with_profile = True
+  enabled_plugins = InactivityWatch, TerminatorThemes, ActivityWatch, TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  title_font = Noto Sans Mono CJK JP 9
+  title_hide_sizetext = True
+  title_inactive_fg_color = "#150707"
+  title_transmit_bg_color = "#510000"
+[keybindings]
+  split_horiz = <Primary><Shift>o
+  split_vert = <Primary><Shift>e
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 49880eb4-dc2c-48d6-b6a9-44fe38ca6032
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 0:23
+      size = 1366, 719
+      title = matheus@matheus-Aspire: ~
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = CrayonPonyFish
+      type = Terminal
+      uuid = 49880eb4-dc2c-48d6-b6a9-44fe38ca6032
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#150707"
+    background_image = None
+    cursor_color = "#68525a"
+    foreground_color = "#68525a"
+    palette = "#2b1b1d:#91002b:#579524:#ab311b:#8c87b0:#692f50:#e8a866:#68525a:#3d2b2e:#c5255d:#8dff57:#c8381d:#cfc9ff:#fc6cba:#ffceaf:#b0949d"
+  [[Afterglow]]
+    background_color = "#212121"
+    background_image = None
+    cursor_color = "#d0d0d0"
+    foreground_color = "#d0d0d0"
+    palette = "#151515:#ac4142:#7e8e50:#e5b567:#6c99bb:#9f4e85:#7dd6cf:#d0d0d0:#505050:#ac4142:#7e8e50:#e5b567:#6c99bb:#9f4e85:#7dd6cf:#f5f5f5"
+  [[CrayonPonyFish]]
+    background_color = "#150707"
+    background_image = None
+    cursor_color = "#68525a"
+    foreground_color = "#68525a"
+    palette = "#2b1b1d:#91002b:#579524:#ab311b:#8c87b0:#692f50:#e8a866:#68525a:#3d2b2e:#c5255d:#8dff57:#c8381d:#cfc9ff:#fc6cba:#ffceaf:#b0949d"
+  [[MaterialDark]]
+    background_color = "#232322"
+    background_image = None
+    cursor_color = "#16afca"
+    foreground_color = "#e5e5e5"
+    palette = "#212121:#b7141f:#457b24:#f6981e:#134eb2:#560088:#0e717c:#efefef:#424242:#e83b3f:#7aba3a:#ffea2e:#54a4f3:#aa4dbc:#26bbd1:#d9d9d9"
+  [[N0tch2k]]
+    background_color = "#222222"
+    background_image = None
+    cursor_color = "#aa9175"
+    foreground_color = "#a0a0a0"
+    palette = "#383838:#a95551:#666666:#a98051:#657d3e:#767676:#c9c9c9:#d0b8a3:#474747:#a97775:#8c8c8c:#a99175:#98bd5e:#a3a3a3:#dcdcdc:#d8c8bb"
+  [[Spiderman]]
+    background_color = "#1b1d1e"
+    background_image = None
+    cursor_color = "#2c3fff"
+    foreground_color = "#e3e3e3"
+    palette = "#1b1d1e:#e60813:#e22928:#e24756:#2c3fff:#2435db:#3256ff:#fffef6:#505354:#ff0325:#ff3338:#fe3a35:#1d50ff:#747cff:#6184ff:#fffff9"
+  [[The Hulk]]
+    background_color = "#1b1d1e"
+    background_image = None
+    cursor_color = "#16b61b"
+    foreground_color = "#b5b5b5"
+    palette = "#1b1d1e:#269d1b:#13ce30:#63e457:#2525f5:#641f74:#378ca9:#d9d8d1:#505354:#8dff2a:#48ff77:#3afe16:#506b95:#72589d:#4085a6:#e5e6e1"

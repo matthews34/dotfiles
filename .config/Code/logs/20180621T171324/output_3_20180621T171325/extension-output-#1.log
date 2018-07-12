@@ -1,0 +1,162 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/matheus/Documents/codelab/iris/api
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user-authentication
+> git config --get commit.template
+Open repository: /home/matheus/Documents/codelab/iris/web
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse --symbolic-full-name feature/user-authentication@{u}
+> git rev-parse feature/user_registration
+> git rev-list --left-right feature/user-authentication...refs/remotes/origin/feature/user-authentication
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :nuxt.config.js
+> git show :nuxt.config.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :package.json
+> git show :nuxt.config.js
+> git show :package.json
+> git show :nuxt.config.js
+> git show :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :nuxt.config.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :app/main/service/user_service.py
+> git check-ignore -z --stdin
+> git show :app/main/controller/user_controller.py
+> git show :app/main/service/user_service.py
+> git show :app/main/controller/user_controller.py
+> git show :app/main/service/user_service.py
+> git show :app/main/controller/user_controller.py
+> git show :app/main/service/user_service.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user-authentication
+> git rev-parse --symbolic-full-name feature/user-authentication@{u}
+> git rev-list --left-right feature/user-authentication...refs/remotes/origin/feature/user-authentication
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :components/Login.vue
+> git show :nuxt.config.js
+> git show :app/main/controller/auth_controller.py
+> git show :app/main/service/auth_helper.py
+> git show :app/main/controller/auth_controller.py
+> git show :nuxt.config.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/test/test_auth.py
+> git show :app/main/service/user_service.py
+> git show :nuxt.config.js
+> git show :app/test/test_auth.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user_registration
+> git rev-parse --symbolic-full-name feature/user_registration@{u}
+> git rev-list --left-right feature/user_registration...refs/remotes/origin/feature/user_registration
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user-authentication
+> git rev-parse --symbolic-full-name feature/user-authentication@{u}
+> git rev-list --left-right feature/user-authentication...refs/remotes/origin/feature/user-authentication
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :app/test/test_config.py
+> git show :app/main/model/__init__.py
+> git show :app/test/test_auth.py
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/user-authentication
+> git rev-parse --symbolic-full-name feature/user-authentication@{u}
+> git rev-list --left-right feature/user-authentication...refs/remotes/origin/feature/user-authentication
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

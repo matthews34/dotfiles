@@ -1,0 +1,18 @@
+2018/02/12-21:27:47.058 4622 Reusing MANIFEST /home/matheus/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2018/02/12-21:27:47.058 4622 Recovering log #22
+2018/02/12-21:27:47.058 4622 Reusing old log /home/matheus/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000022.log 
+2018/02/14-00:33:08.274 4622 Current memtable full; waiting...
+2018/02/14-00:33:08.274 12906 Level-0 table #27: started
+2018/02/14-00:33:08.346 12906 Level-0 table #27: 624 bytes OK
+2018/02/14-00:33:08.459 12906 Delete type=0 #22
+2018/02/14-00:33:08.459 12906 Level-0 table #29: started
+2018/02/14-00:33:08.459 12906 Level-0 table #29: 0 bytes OK
+2018/02/14-00:33:08.526 12906 Delete type=0 #26
+2018/02/14-00:33:08.526 12906 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 137 : 1
+2018/02/14-00:33:08.526 12906 Compacting 1@0 + 1@1 files
+2018/02/14-00:33:08.571 12906 Generated table #30@0: 3 keys, 447 bytes
+2018/02/14-00:33:08.571 12906 Compacted 1@0 + 1@1 files => 447 bytes
+2018/02/14-00:33:08.605 12906 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/02/14-00:33:08.605 12906 Delete type=2 #24
+2018/02/14-00:33:08.605 12906 Delete type=2 #27
+2018/02/14-00:33:08.605 12906 Manual compaction at level-0 from '\x00\x05\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 137 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,22 @@
+2018/06/20-19:25:04.180 17760 Reusing MANIFEST /home/matheus/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2018/06/20-19:25:04.180 17760 Recovering log #500
+2018/06/20-19:25:04.196 17760 Level-0 table #503: started
+2018/06/20-19:25:04.348 17760 Level-0 table #503: 3380430 bytes OK
+2018/06/20-19:25:04.405 17760 Delete type=0 #500
+2018/06/20-19:26:05.283 18146 Level-0 table #506: started
+2018/06/20-19:26:05.414 18146 Level-0 table #506: 3380317 bytes OK
+2018/06/20-19:26:05.459 18146 Delete type=0 #504
+2018/06/20-19:26:12.945 18146 Level-0 table #508: started
+2018/06/20-19:26:13.212 18146 Level-0 table #508: 3380441 bytes OK
+2018/06/20-19:26:13.258 18146 Delete type=0 #505
+2018/06/20-19:26:13.260 18146 Compacting 4@0 + 2@1 files
+2018/06/20-19:26:13.435 18146 Generated table #509@0: 1 keys, 3380193 bytes
+2018/06/20-19:26:13.480 18146 Generated table #510@0: 6 keys, 455 bytes
+2018/06/20-19:26:13.480 18146 Compacted 4@0 + 2@1 files => 3380648 bytes
+2018/06/20-19:26:13.558 18146 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/06/20-19:26:13.558 18146 Delete type=2 #503
+2018/06/20-19:26:13.559 18146 Delete type=2 #501
+2018/06/20-19:26:13.560 18146 Delete type=2 #498
+2018/06/20-19:26:13.560 18146 Delete type=2 #499
+2018/06/20-19:26:13.560 18146 Delete type=2 #506
+2018/06/20-19:26:13.561 18146 Delete type=2 #508

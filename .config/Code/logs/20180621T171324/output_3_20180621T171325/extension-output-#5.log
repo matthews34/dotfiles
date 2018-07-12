@@ -1,0 +1,37 @@
+[Info  - 5:17:10 PM] ESLint server is running.
+[Info  - 5:17:13 PM] 
+Failed to load the ESLint library for the document /home/matheus/Documents/codelab/iris/web/nuxt.config.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder iris
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder iris by executing the 'Disable ESLint' command.
+[Info  - 5:25:51 PM] 
+Failed to load the ESLint library for the document /home/matheus/Documents/codelab/iris/web/package.json
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder iris
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder iris by executing the 'Disable ESLint' command.
+[Info  - 5:48:34 PM] 
+Failed to load the ESLint library for the document /home/matheus/Documents/codelab/iris/web/nuxt.config.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder iris
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder iris by executing the 'Disable ESLint' command.
+[Info  - 5:55:27 PM] 
+Failed to load the ESLint library for the document /home/matheus/Documents/codelab/iris/web/nuxt.config.js
+
+To use ESLint please install eslint by running 'npm install eslint' in the workspace folder iris
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn instead of npm set the setting `"eslint.packageManager": "yarn"`
+
+Alternatively you can disable ESLint for the workspace folder iris by executing the 'Disable ESLint' command.

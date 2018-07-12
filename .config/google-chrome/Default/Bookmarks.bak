@@ -1,0 +1,38 @@
+{
+   "checksum": "24094fc32b95450e597b14f0c4732a06",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13124241819237241",
+            "id": "5",
+            "name": "Embarcados - Informações sobre Sistemas Embarcados",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.embarcados.com.br/"
+         } ],
+         "date_added": "13162067257352611",
+         "date_modified": "13124241819237241",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13162067257352617",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "3",
+      "synced": {
+         "children": [  ],
+         "date_added": "13162067257352619",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

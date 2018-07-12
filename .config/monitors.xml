@@ -1,0 +1,166 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP1">
+          <vendor>AUO</vendor>
+          <product>0x48ec</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="DP1">
+      </output>
+      <output name="HDMI1">
+      </output>
+      <output name="HDMI2">
+          <vendor>SAM</vendor>
+          <product>0x050d</product>
+          <serial>0x00000001</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="VIRTUAL1">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP1">
+          <vendor>AUO</vendor>
+          <product>0x48ec</product>
+          <serial>0x00000000</serial>
+          <width>1366</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP1">
+      </output>
+      <output name="HDMI1">
+      </output>
+      <output name="HDMI2">
+      </output>
+      <output name="VIRTUAL1">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>yes</clone>
+      <output name="eDP1">
+          <vendor>AUO</vendor>
+          <product>0x48ec</product>
+          <serial>0x00000000</serial>
+          <width>1280</width>
+          <height>720</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP1">
+      </output>
+      <output name="HDMI1">
+      </output>
+      <output name="HDMI2">
+          <vendor>SAM</vendor>
+          <product>0x055c</product>
+          <serial>0x00000000</serial>
+          <width>1280</width>
+          <height>720</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="VIRTUAL1">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>yes</clone>
+      <output name="eDP1">
+          <vendor>AUO</vendor>
+          <product>0x48ec</product>
+          <serial>0x00000000</serial>
+          <width>1280</width>
+          <height>720</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP1">
+      </output>
+      <output name="HDMI1">
+      </output>
+      <output name="HDMI2">
+          <vendor>EXP</vendor>
+          <product>0x0074</product>
+          <serial>0x0001d7e9</serial>
+          <width>1280</width>
+          <height>720</height>
+          <rate>60</rate>
+          <x>1366</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="VIRTUAL1">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>yes</clone>
+      <output name="eDP1">
+          <vendor>AUO</vendor>
+          <product>0x48ec</product>
+          <serial>0x00000000</serial>
+          <width>1280</width>
+          <height>720</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP1">
+      </output>
+      <output name="HDMI1">
+      </output>
+      <output name="HDMI2">
+          <vendor>LTM</vendor>
+          <product>0x0000</product>
+          <serial>0x00000000</serial>
+          <width>1280</width>
+          <height>720</height>
+          <rate>60</rate>
+          <x>1366</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="VIRTUAL1">
+      </output>
+  </configuration>
+</monitors>

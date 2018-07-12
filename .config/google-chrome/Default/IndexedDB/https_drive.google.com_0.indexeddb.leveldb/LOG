@@ -1,0 +1,49 @@
+2018/06/20-17:59:09.126 13102 Reusing MANIFEST /home/matheus/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/06/20-17:59:09.126 13102 Recovering log #233
+2018/06/20-17:59:09.134 13102 Reusing old log /home/matheus/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000233.log 
+2018/06/20-17:59:15.967 13352 Level-0 table #237: started
+2018/06/20-17:59:16.153 13352 Level-0 table #237: 5473911 bytes OK
+2018/06/20-17:59:16.275 13352 Delete type=0 #233
+2018/06/20-17:59:17.748 13352 Level-0 table #239: started
+2018/06/20-17:59:18.042 13352 Level-0 table #239: 4907688 bytes OK
+2018/06/20-17:59:18.110 13352 Delete type=0 #236
+2018/06/20-18:00:46.705 13352 Level-0 table #241: started
+2018/06/20-18:00:46.929 13352 Level-0 table #241: 4910522 bytes OK
+2018/06/20-18:00:47.024 13352 Delete type=0 #238
+2018/06/20-18:00:47.026 13352 Compacting 4@0 + 2@1 files
+2018/06/20-18:00:47.224 13352 Generated table #242@0: 73 keys, 2489324 bytes
+2018/06/20-18:00:47.369 13352 Generated table #243@0: 42 keys, 1569775 bytes
+2018/06/20-18:00:47.369 13352 Compacted 4@0 + 2@1 files => 4059099 bytes
+2018/06/20-18:00:47.414 13352 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/06/20-18:00:47.414 13352 Delete type=2 #231
+2018/06/20-18:00:47.415 13352 Delete type=2 #239
+2018/06/20-18:00:47.417 13352 Delete type=2 #237
+2018/06/20-18:00:47.418 13352 Delete type=2 #241
+2018/06/20-18:00:47.420 13352 Delete type=2 #234
+2018/06/20-18:00:47.421 13352 Delete type=2 #230
+2018/06/20-18:02:02.012 13352 Level-0 table #245: started
+2018/06/20-18:02:02.204 13352 Level-0 table #245: 4858983 bytes OK
+2018/06/20-18:02:02.238 13352 Delete type=0 #240
+2018/06/20-18:04:52.156 13352 Level-0 table #247: started
+2018/06/20-18:04:52.347 13352 Level-0 table #247: 4912000 bytes OK
+2018/06/20-18:04:52.403 13352 Delete type=0 #244
+2018/06/20-18:04:53.988 13352 Level-0 table #249: started
+2018/06/20-18:04:54.112 13352 Level-0 table #249: 831017 bytes OK
+2018/06/20-18:04:54.202 13352 Delete type=0 #246
+2018/06/20-18:04:54.644 13352 Level-0 table #251: started
+2018/06/20-18:04:54.771 13352 Level-0 table #251: 766483 bytes OK
+2018/06/20-18:04:54.882 13352 Delete type=0 #248
+2018/06/20-18:04:54.884 13352 Compacting 4@0 + 2@1 files
+2018/06/20-18:04:55.037 13352 Generated table #252@0: 73 keys, 2491475 bytes
+2018/06/20-18:04:55.128 13352 Generated table #253@0: 42 keys, 1571870 bytes
+2018/06/20-18:04:55.128 13352 Compacted 4@0 + 2@1 files => 4063345 bytes
+2018/06/20-18:04:55.206 13352 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/06/20-18:04:55.206 13352 Delete type=2 #245
+2018/06/20-18:04:55.208 13352 Delete type=2 #242
+2018/06/20-18:04:55.208 13352 Delete type=2 #247
+2018/06/20-18:04:55.210 13352 Delete type=2 #249
+2018/06/20-18:04:55.210 13352 Delete type=2 #243
+2018/06/20-18:04:55.211 13352 Delete type=2 #251
+2018/06/20-18:19:31.645 13352 Level-0 table #255: started
+2018/06/20-18:19:31.823 13352 Level-0 table #255: 3594132 bytes OK
+2018/06/20-18:19:31.947 13352 Delete type=0 #250

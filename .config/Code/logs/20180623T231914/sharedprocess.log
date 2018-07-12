@@ -1,0 +1,20 @@
+[2018-06-23 23:19:19.146] [sharedprocess] [info] main {"machineId":"c37e4895fb105ed02f9c5460573e1003d9052a49269d3bd11f06f8d643b56860"}
+[2018-06-23 23:19:22.654] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:19:23.267] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:19:23.268] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:19:23.321] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-23 23:19:23.321] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-23 23:19:24.894] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:19:26.621] [sharedprocess] [info] Installing extension: cpptools
+[2018-06-23 23:19:26.664] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:19:29.135] [sharedprocess] [info] Downloaded extension: cpptools
+[2018-06-23 23:19:30.083] [sharedprocess] [info] Extracted extension to /home/matheus/.vscode/extensions/.ms-vscode.cpptools-0.17.5: ms-vscode.cpptools-0.17.5
+[2018-06-23 23:19:30.083] [sharedprocess] [info] Renamed to /home/matheus/.vscode/extensions/ms-vscode.cpptools-0.17.5
+[2018-06-23 23:19:30.083] [sharedprocess] [info] Installation completed. ms-vscode.cpptools-0.17.5
+[2018-06-23 23:19:30.232] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2018-06-23 23:19:30.404] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:19:30.414] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-23 23:19:59.164] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-23 23:20:58.690] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:24:24.966] [sharedprocess] [info] Scanned user extensions: 31
+[2018-06-23 23:29:25.023] [sharedprocess] [info] Scanned user extensions: 31
